@@ -370,3 +370,5 @@ This portfolio intentionally avoids publishing:
 - detailed security controls that could weaken deployed systems.
 
 The goal is to present the **engineering scope, architecture, product thinking, and technical breadth** of the work while keeping implementation-sensitive material private.
+
+@ All Rights Reserved.

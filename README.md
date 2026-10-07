@@ -16,15 +16,6 @@ Some entries represent broader project families composed of multiple internal co
 
 ---
 
-## Public Projects
-
-- [Flushnet AI Runner](https://github.com/luxiano3990/flushnet-ai-runner) — AI-powered browser, desktop, terminal, file, and remote-device automation.
-- [Mesh LLM](https://github.com/luxiano3990/mesh-llm) — distributed model execution and mesh-oriented inference research.
-- [Legal Evidence Framework and App](https://github.com/luxiano3990/Legal-Evidence-Framework-and-App) — digital evidence, document integrity, verification, signing, and audit-oriented workflows.
-- [B2C Services Platform](https://github.com/luxiano3990/B2C-Services-Platform) — modular consumer-services architecture spanning marketplaces, ticketing, QR services, affiliate workflows, and digital platforms.
-
----
-
 # 1. AI Platforms and Intelligent Systems
 
 ### Flushnet AI Platform

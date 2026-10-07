@@ -1,5 +1,13 @@
 # Portfolio Projects
 
+This is the **public project portfolio of Luciano Marchese**.
+
+The projects listed below represent systems, platforms, applications, architectures, infrastructure, and technical solutions that I have **designed, developed, implemented, integrated, tested, deployed, operated, and evolved** across a wide range of technology domains.
+
+The portfolio includes complete products as well as larger project families developed through multiple components, prototypes, production implementations, integrations, and architectural iterations. The projects are organized by sector to provide a clear overview of my technical experience, engineering work, solution-architecture capabilities, and hands-on implementation across software, infrastructure, networking, data, security, AI, automation, cloud, media, and digital platforms.
+
+Where source code or implementation details are not public, this repository provides a high-level description of the project scope, capabilities, and architecture while intentionally excluding confidential, proprietary, security-sensitive, and production-specific information.
+
 A sector-organized overview of selected software, infrastructure, networking, data, security, automation, media, and platform-engineering projects.
 
 This repository is intentionally **description-only**. It presents project scope, architecture themes, capabilities, and engineering areas without publishing proprietary source code, credentials, internal production topology, private APIs, sensitive configuration, or implementation details.
